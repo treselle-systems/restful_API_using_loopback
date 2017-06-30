@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "studentsds": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "studentsdb",
+    "password": "",
+    "name": "studentsds",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
